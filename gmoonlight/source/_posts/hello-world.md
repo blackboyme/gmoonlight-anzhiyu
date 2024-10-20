@@ -1,5 +1,7 @@
 ---
 title: Hello World
+date: 2024-03-26 18:55:44
+main_color: "#fcbad3"
 tags: 初体验
 categories: 技术
 ---
