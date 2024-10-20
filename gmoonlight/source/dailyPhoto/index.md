@@ -1,5 +1,5 @@
 ---
-title: 日常生活
+title: 旅游
 date: 2022-10-23 15:57:51
 aside: false
 top_img: false
