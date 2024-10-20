@@ -25,17 +25,17 @@
       - 我先睡会儿
   helloAbout: 吃了没？
   skillsTips:
-    tips: 技能
-    title: 开启创造力：做饭顶级 美貌顶级 双商顶级 生活顶级
+    tips: 我的座右铭
+    title: 以温柔之心，守护珍视之人
   careers:
-    tips: 生涯
+    tips: 要做的事情
     title: 无限进步
     list:
-      - desc: 顶级
+      - desc: 去海洋公园
         color: "#357ef5"
-      - desc: 顶级
+      - desc: 吃旋转小火锅
         color: "#357ef5"
-      - desc: 还是顶级
+      - desc: 去贵州玩儿
         color: "#357ef5"
     img: https://bu.dusays.com/2023/04/21/644287166329b.png
   statistic:
