@@ -2,8 +2,8 @@
   path_name: /wordScenery
   type: 2
   description: 最美不过夕阳红
-  cover: https://bu.dusays.com/2023/04/09/64329399d1175.jpg
-  top_background: https://bu.dusays.com/2023/06/30/649e546ada7dd.webp
+  cover: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212324554.jpg
+  top_background: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212324554.jpg
   rowHeight: 220
   limit: 10
   lazyload: true
@@ -12,29 +12,29 @@
   top_link: /album
   top_btn_text: 返回
   album_list:
-    - date: 2022/10/26 01:00:00
-      content: 湘潭的一角。
-      address: 湖南湘潭
-      from: 再吃一口就减肥
+    - date: 2024/10/01 01:00:00
+      content: 美丽的晚霞,更美丽的姑娘。
+      address: 广西桂林
+      from: GmoonLight
       image:
-        - https://bu.dusays.com/2023/04/09/64329399db122.webp
-    - date: 2022-10-25
-      content: 洛阳暴雨后的天空。
-      address: 河南洛阳
-      from: 紫菜卷
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212324071.jpg
+    - date: 2024-10-01 01:00:00
+      content: 蓝天白云
+      address: 广西桂林
+      from: GmoonLight
       image:
-        - https://bu.dusays.com/2023/04/09/64329399db122.webp
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212324554.jpg
 
-- class_name: 我的日常
+- class_name: 生活
   path_name: /dailyPhoto
   type: 1
-  description: 这里存放的是有关我自己的一些沙雕生活与有趣的事情。
+  description: 这里存放的是有关我自己的日常。
   top_link: /album
   top_btn_text: 返回
-  top_background: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
-  cover: https://bu.dusays.com/2023/04/09/64329399cea5a.webp
+  top_background: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212326315.JPG
+  cover: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212326315.JPG
   album_list:
-    - date: 2022-10-24
-      content: 老妹的画
+    - date: 2022-05-24
+      content: 写真
       image:
-        - https://bu.dusays.com/2023/04/09/643293997b92b.jpeg
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212326315.JPG
