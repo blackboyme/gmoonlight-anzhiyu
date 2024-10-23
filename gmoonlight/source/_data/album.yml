@@ -2,8 +2,8 @@
   path_name: /wordScenery
   type: 2
   description: 最美不过夕阳红
-  cover: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212324554.jpg
-  top_background: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212324554.jpg
+  cover: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232143443.JPG
+  top_background: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232143443.JPG
   rowHeight: 220
   limit: 10
   lazyload: true
@@ -34,7 +34,52 @@
   top_background: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212326315.JPG
   cover: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212326315.JPG
   album_list:
-    - date: 2022-05-24
+    - date: 2024-10-23
       content: 写真
       image:
         - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410212326315.JPG
+- class_name: 美的具象化
+  path_name: /beautiy
+  type: 1
+  description: 想你是种会呼吸的通
+  top_link: /album
+  top_btn_text: 返回
+  top_background: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232147101.jpg
+  cover: https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232144841.jpg
+  album_list:
+    - date: 2024-10-23
+      content: 真的好美
+      image:
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232144841.jpg
+    - date: 2024-10-23
+      content: 黑夜精灵
+      image:
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232143825.JPG
+    - date: 2024-10-23
+      content: 美丽的比基尼
+      image:
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232146828.jpg
+    - date: 2024-10-23
+      content: 你的眼神告诉我，你不是真正的快乐
+      image:
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232147748.jpg
+    - date: 2024-10-23
+      content: 阳光沙滩，没有我
+      image:
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232147101.jpg
+    - date: 2024-10-23
+      content: 给我发这张照片的时候，我真的感动的要哭
+      image:
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232148717.jpg
+    - date: 2024-10-23
+      content: 美丽的背影
+      image:
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232149304.jpg
+    - date: 2024-10-23
+      content: 思考的具象化
+      image:
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232149227.jpg
+    - date: 2024-10-23
+      content: 无心看风景
+      image:
+        - https://gmoonlight.oss-cn-chengdu.aliyuncs.com/img/202410232151947.jpg
