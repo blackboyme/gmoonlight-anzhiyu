@@ -135,3 +135,7 @@ bangumi: # 追番设置
     top_img: false
     lazyload:
       enable: false
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
